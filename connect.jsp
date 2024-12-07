@@ -1,4 +1,3 @@
-<!-- connect.jsp -->
 <%@ page import="java.sql.*" %>
 <%
 	Connection conn = null;
